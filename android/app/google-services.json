@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654054309816",
+    "project_id": "th-dnt-lap3",
+    "storage_bucket": "th-dnt-lap3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654054309816:android:c25694b7a8d5a4898c994d",
+        "android_client_info": {
+          "package_name": "com.lap3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtiqpZ8IXb6NXCqq5QI9pjRBYpnuVWxSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
